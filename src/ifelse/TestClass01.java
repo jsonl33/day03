@@ -12,5 +12,6 @@ public class TestClass01 {
 		else {
 			System.out.println("비정상");
 		}
+		sc.close();
 	}
 }
